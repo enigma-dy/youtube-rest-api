@@ -13,7 +13,7 @@ The application is **production ready**, and can be used behind a Nginx reverse 
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/Nodejs-REST-API.git
+git clone https://github.com/enigma-dy/youtube-rest-api.git
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -29,7 +29,7 @@ PORT=3000
 MONGODB_URI=YOUR MONGODB URI
 DB_NAME=DATABASE NAME OF YOUR CHOICE
 DB_USER=DATABASE USER
-DB_PASS=DATABASE USER PASSWORD 
+DB_PASS=DATABASE USER PASSWORD
 ```
 
 Step 4: Start the API by
@@ -40,8 +40,6 @@ npm start
 
 ## Author
 
-- [**Truly Mittal**](https://trulymittal.com)
+- [**Oluwagbenga Adedire**](https://github.com/enigma-dy)
 
-## License
-
-This project is licensed under the MIT License.
+git remote add origin https://github.com/enigma-dy/youtube-rest-api.git
